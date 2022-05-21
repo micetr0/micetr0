@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @micetr0
-- 👀 I’m interested in ...powershell, reactJS
-- 🌱 I’m currently learning ...powershell, javascript, reactJS
-- 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ...
+- 👀 I’m interested in ...automation, devOps, application developement
+- 🌱 I’m currently learning ...Powershell, MERN stack
 
 <!---
 micetr0/micetr0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
